@@ -1,0 +1,13 @@
+POST http://localhost:4001/app/signup
+Content-Type: application/json
+
+{
+    "studentid":9,
+    "studentname":"bhagavath",
+     "studentage":3,
+     "studentaddress":"Tiruppur",
+     "studentmobileno":49057549,
+     "studentdisease":"Heart"
+
+    
+}
